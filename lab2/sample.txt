@@ -1,6 +1,6 @@
 Hello, world!
 Python is amazing
-OpenAI's GPT-3.5 is powerful
+MIT is powerful
 Coding is fun
 Programming is a valuable skill
 Learning never stops

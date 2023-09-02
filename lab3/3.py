@@ -1,4 +1,4 @@
-\
+
 
 def function():
     var = 10
